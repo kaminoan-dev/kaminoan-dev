@@ -1,11 +1,3 @@
-## About me 👋
-
-I am a passionate software engineer based in Europe. I have been involved for many years in coding flight dynamics software in Fortran and Java, which has granted me the expertise to design and implement robust and efficient software systems that meet the demanding requirements of the aerospace industry.
-
-Currently, I work as a freelance, primarily focusing on developing apps for Android, iOS, and web platforms in Flutter. I thoroughly enjoy the challenge of crafting elegant code and solving complex problems in my free time. 
-
-Being fluent in English, French, and Spanish, I possess the language skills necessary to contribute effectively to cross-cultural teams and projects.
-
 <img src="https://komarev.com/ghpvc/?username=kaminoan-dev&style=flat-square&color=blue" alt=""/>
 
 ## :hammer_and_wrench: Languages and Tools :
